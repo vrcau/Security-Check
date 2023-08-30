@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 7220136135459584628}
   - component: {fileID: 8276360107304907744}
   - component: {fileID: 3639211650713875390}
+  - component: {fileID: 5987579534980653374}
   m_Layer: 0
   m_Name: TouchButton
   m_TagString: Untagged
@@ -270,6 +271,19 @@ MonoBehaviour:
   m_Script: {fileID: -1533785930, guid: 661092b4961be7145bfbe56e1e62337b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &5987579534980653374
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3031683217432279101}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 80, y: 80, z: 0.01}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &6570382966948159562
 GameObject:
   m_ObjectHideFlags: 0

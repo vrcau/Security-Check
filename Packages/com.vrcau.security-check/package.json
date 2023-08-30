@@ -1,7 +1,7 @@
 {
   "name": "com.vrcau.security-check",
   "displayName": "Security Check",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Security Check",
   "gitDependencies": {},
   "vpmDependencies": {
