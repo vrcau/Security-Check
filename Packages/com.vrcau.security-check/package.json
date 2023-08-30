@@ -1,0 +1,18 @@
+{
+  "name": "com.vrcau.security-check",
+  "displayName": "Security Check",
+  "version": "0.0.1",
+  "description": "Security Check",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.9"
+  },
+  "author": {
+    "name": "VRChat Aerospace University",
+    "email": "lipww1234@foxmail.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\ProjectEcho\\SecurityCheck-VRC\\Packages\\com.vrcau.security-check",
+  "type": "library"
+}
